@@ -71,6 +71,7 @@
                         aEliminar = e;
                     }
                 }
+
                 if (aEliminar != null) listaEmpleados.Remove(aEliminar);
             }
         }
